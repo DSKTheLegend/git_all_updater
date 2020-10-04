@@ -18,4 +18,5 @@ I was getting bored and was tired of updating all my repositories manually
 - Error Handling ??? What if repository does not exist anymore ? What if your password changed ?
 - User Credentials setup in script ??
 - Many more bugs to turn into feature :D
-P.S. This is a shell script, so only suitable for UNIX system
+
+### P.S. This is a shell script, so only suitable for UNIX system
