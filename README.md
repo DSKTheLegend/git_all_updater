@@ -11,5 +11,11 @@ Not sure .... but the way I intend to use it is - setup a cronjob which will tri
 ## Why did I create this script ?
 I was getting bored and was tired of updating all my repositories manually
 
+## Bugs/Unwanted Features/To Do/Something/Anything ?
 
+- More than 1 line of log is not being written
+- Bit more refined script - only execute on git repo folder
+- Error Handling ??? What if repository does not exist anymore ? What if your password changed ?
+- User Credentials setup in script ??
+- Many more bugs to turn into feature :D
 P.S. This is a shell script, so only suitable for UNIX system
